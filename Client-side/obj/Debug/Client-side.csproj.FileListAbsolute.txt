@@ -1,0 +1,11 @@
+C:\Users\marti\source\repos\PRG650_Project\Client-side\bin\Debug\Client-side.exe.config
+C:\Users\marti\source\repos\PRG650_Project\Client-side\bin\Debug\Client-side.exe
+C:\Users\marti\source\repos\PRG650_Project\Client-side\bin\Debug\Client-side.pdb
+C:\Users\marti\source\repos\PRG650_Project\Client-side\obj\Debug\Client-side.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\PRG650_Project\Client-side\obj\Debug\Client_side.SetHostForm.resources
+C:\Users\marti\source\repos\PRG650_Project\Client-side\obj\Debug\Client_side.Properties.Resources.resources
+C:\Users\marti\source\repos\PRG650_Project\Client-side\obj\Debug\Client-side.csproj.GenerateResource.cache
+C:\Users\marti\source\repos\PRG650_Project\Client-side\obj\Debug\Client-side.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\PRG650_Project\Client-side\obj\Debug\Client-side.exe
+C:\Users\marti\source\repos\PRG650_Project\Client-side\obj\Debug\Client-side.pdb
+C:\Users\marti\source\repos\PRG650_Project\Client-side\obj\Debug\Client_side.ShopClientForm.resources
