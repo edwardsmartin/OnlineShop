@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\PRG650_Project\Server-side\bin\Debug\Server-side.exe.config
+C:\Users\marti\source\repos\PRG650_Project\Server-side\bin\Debug\Server-side.exe
+C:\Users\marti\source\repos\PRG650_Project\Server-side\bin\Debug\Server-side.pdb
+C:\Users\marti\source\repos\PRG650_Project\Server-side\obj\Debug\Server-side.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\PRG650_Project\Server-side\obj\Debug\Server-side.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\PRG650_Project\Server-side\obj\Debug\Server-side.exe
+C:\Users\marti\source\repos\PRG650_Project\Server-side\obj\Debug\Server-side.pdb
